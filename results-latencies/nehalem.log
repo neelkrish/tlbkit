@@ -1,0 +1,19 @@
+tlblatency - INFO - logging to results-latencies/nehalem.log
+tlblatency - INFO - 
+tlblatency - INFO -  * Probing set sizes
+tlblatency - INFO - 
+tlblatency - INFO - calculating dtlb_load_misses.stlb_hit and cycles slope for l1 miss test size 1
+tlblatency - INFO - done. misses: 0.0, cycles: 99.5
+tlblatency - INFO - calculating dtlb_load_misses.stlb_hit and cycles slope for l1 miss test size 2
+tlblatency - INFO - done. misses: 0.0, cycles: 147.1
+tlblatency - INFO - calculating dtlb_load_misses.stlb_hit and cycles slope for l1 miss test size 3
+tlblatency - INFO - done. misses: 0.0, cycles: 194.6
+tlblatency - INFO - calculating dtlb_load_misses.stlb_hit and cycles slope for l1 miss test size 4
+tlblatency - INFO - done. misses: 0.0, cycles: 242.1
+tlblatency - INFO - calculating dtlb_load_misses.stlb_hit and cycles slope for l1 miss test size 5
+tlblatency - INFO - done. misses: 0.0, cycles: 289.6
+tlblatency - INFO - calculating dtlb_load_misses.stlb_hit and cycles slope for l1 miss test size 6
+tlblatency - INFO - done. misses: 9.2, cycles: 384.6
+tlblatency - INFO - Found
+tlblatency - INFO - 
+tlblatency - INFO - calculating dtlb_load_misses.miss_causes_a_walk and cycles slope for l2 miss test size 1
